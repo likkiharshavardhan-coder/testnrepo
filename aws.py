@@ -19,7 +19,6 @@ columns = [
 #Practice Questions ,Highest-rated movie in each genre ,Average rating by genre ,Rank movies within genre ,Top 2 movies per genre
 print("=====TASK2======")
 #Task 2
-print("=====TASK1======")
 data = [
     (
         101,
