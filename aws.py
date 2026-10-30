@@ -102,3 +102,23 @@ payments = [
 ]
 #Find customers with no orders , Find completed orders , Find customers with pending payments
 
+
+print("=====TASK3======")
+#Task 3
+
+flights = [
+    ("AI101", "Delhi", "Mumbai", 120),
+    ("AI102", "Delhi", "Bangalore", 180),
+    ("AI103", "Mumbai", "Chennai", 150),
+    ("AI104", "Delhi", "Mumbai", 200),
+    ("AI105", "Chennai", "Delhi", 170)
+]
+
+columns = [
+    "flight_id",
+    "source",
+    "destination",
+    "passengers"
+]
+
+#•	Route-wise passenger count ,Most popular route ,Top 3 routes ,Average passengers by source city
